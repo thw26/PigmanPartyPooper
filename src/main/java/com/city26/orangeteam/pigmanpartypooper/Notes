@@ -1,5 +1,0 @@
-Plugin currently can stop a Zombie Pigman from spawning by the world by cancelling the event before the light check.
-
-The light check is failing for some reason.
-
-ConcurrentModificationException is causing no mobs to spawn from the world; will have to find a way around.
