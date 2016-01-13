@@ -5,6 +5,7 @@ A Minecraft Sponge Plugin that alters the light level that Zombie Pigmen spawn t
 Endermen don't destroy blocks they pickup but the blocks still appear in their hands.
 
 ## To-Do
-Fix Endermen block pickups.
-Create a config file.
-Create commands to control plugin.
+
+* Fix Endermen block pickups.
+* Create a config file.
+* Create commands to control plugin.
